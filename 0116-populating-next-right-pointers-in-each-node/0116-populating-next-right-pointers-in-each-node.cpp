@@ -34,6 +34,7 @@ public:
                     break;
                 }
                 q.push(NULL);
+                prev = NULL;
             }
             else{
                 if(curr->left != NULL){
