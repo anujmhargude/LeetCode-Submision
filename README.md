@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0994-rotting-oranges) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4106-find-mismatched-segments-between-two-strings](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4106-find-mismatched-segments-between-two-strings) |
+## Hash Table
+|  |
+| ------- |
+| [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
+## Counting
+|  |
+| ------- |
+| [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
 <!---LeetCode Topics End-->
