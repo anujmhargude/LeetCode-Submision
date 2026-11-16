@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anujmhargude/LeetCode-Submision/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [4106-find-mismatched-segments-between-two-strings](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Hash Table
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anujmhargude/LeetCode-Submision/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
