@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0035-search-insert-position) |
 | [0200-number-of-islands](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/anujmhargude/LeetCode-Submision/tree/master/1672-richest-customer-wealth) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
 | [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
 | [4107-count-valid-suffix-sorts-i](https://github.com/anujmhargude/LeetCode-Submision/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Simulation
 |  |
@@ -85,4 +88,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anujmhargude/LeetCode-Submision/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
